@@ -2,10 +2,10 @@
 <p align="center">Projeto baseado no tutorial do Florin Pop como prática de HTML e CSS</p>
 
 ## Materiais Usados
-. [Vídeo Original](https://www.youtube.com/watch?v=Rz-rey4Q1bw)
-. [Guia sobre Padding](https://css-tricks.com/almanac/properties/p/padding/)
+- [Vídeo Original](https://www.youtube.com/watch?v=Rz-rey4Q1bw)
+- [Guia sobre Padding](https://css-tricks.com/almanac/properties/p/padding/)
 
 ## Tecnologias Usadas
-. HTML
-. CSS
-. Font Awesome
+- HTML
+- CSS
+- Font Awesome
